@@ -1,1 +1,37 @@
 
+.main {
+    text-align: center;
+}
+.header__list {
+    padding: 0 30px;
+}
+.header__nav
+{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.header__nav a {
+    text-decoration: none;
+}
+
+body img{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+footer img{
+    max-width: 150px;
+    max-height: 150px;
+}
+footer a{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    border: 2px solid black;
+}
